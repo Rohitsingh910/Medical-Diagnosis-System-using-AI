@@ -1,2 +1,7 @@
-# Medical-Diagnosis-System-using-AI
-The Medical Diagnosis System is a web app built with Streamlit and Python that predicts diseases based on symptoms and lab results using AI models. It provides real-time, accurate predictions with an easy-to-use interface, helping users identify potential health issues and make informed decisions.
+# multiple-disease-prediction-streamlit-app
+This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+
+app.py is the streamlit app code.
+run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+
+You may need to install additional libraries for running the jupyter notebooks.
